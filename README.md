@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science and Bioinformatics**
 
-- 🌱 I’m currently a **Molecular Biology and Genetics** undergradute student in Acibadem University.
+- 🌱 I’m currently an undergraduate student in the department of **Molecular Biology and Genetics** at Acıbadem University.
 
 - 📝 I regularly write articles on [https://medium.com/@mehmetburaktaskaya](https://medium.com/@mehmetburaktaskaya)
 
