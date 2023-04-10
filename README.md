@@ -31,7 +31,7 @@
 ![Snake animation](https://github.com/MehmetBurakTaskaya/MehmetBurakTaskaya/blob/output/github-contribution-grid-snake.svg)
 
 <h3>Most Used Languages:</h3> 
-<a href="https://github.com/MehmetBurakTaskaya" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetBurakTaskaya&layout=compact&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages:" alt="Top Languages" /></a>
+<a href="https://github.com/MehmetBurakTaskaya" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetBurakTaskaya&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages:" alt="Top Languages" /></a>
 
 <!--
 ![burak](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
