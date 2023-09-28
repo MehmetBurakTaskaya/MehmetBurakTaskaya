@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehmet Burak</h1>
 <h3 align="center">A passionate scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **Data Science and Bioinformatics**
+- 🔭 I’m currently working on **Human Genetics, Data Science and Bioinformatics**
 
-- 🌱 I’m currently an undergraduate student in the department of **Molecular Biology and Genetics** at Acıbadem University.
+- 🌱 I graduated in the department of **Molecular Biology and Genetics** from Acıbadem University.
+- 🌱 I’m currently a PhD student in the department of **Molecular Biology and Genetics** at Bilkent University.
 
 - 📝 I regularly write articles on [https://medium.com/@mehmetburaktaskaya](https://medium.com/@mehmetburaktaskaya)
 
