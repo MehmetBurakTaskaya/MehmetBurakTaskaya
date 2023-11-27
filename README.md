@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mehmetburaktaskaya@gmail.com**
 
-- ⚡ Fun fact **I think I can survive anything**
+- ⚡ Fun fact **I think science is amazing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
